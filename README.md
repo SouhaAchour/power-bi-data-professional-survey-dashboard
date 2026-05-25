@@ -43,5 +43,3 @@ Main transformations included:
 - Salary and satisfaction levels vary by role.
 - The dashboard allows filtering by country and job role.
 
-## Note
-This project was created as a learning project to practice Power BI, Power Query, data cleaning, and dashboard creation.
